@@ -1,0 +1,101 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2007
+! INFO-      
+! INFO-     Start of Translation: 9-MAR-2023  2:38:35 PM
+! INFO-      
+! STATUS-   Converting Part: D:\Studia\Semestr VII\PKM6\Model\Silnik\Sh 90L-B3.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        Sh 90L-B3.STEP
+! SUMMARY-  Date             2010-01-08T13:21:50
+! SUMMARY-  Author           INDUKTA
+! SUMMARY-  Organization     CANTONI MOTOR
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2003064
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        config_control_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    494
+! SUMMARY-  application_context ........................................:      2
+! SUMMARY-  approval ...................................................:      3
+! SUMMARY-  approval_date_time .........................................:      3
+! SUMMARY-  approval_person_organization ...............................:      3
+! SUMMARY-  approval_role ..............................................:      3
+! SUMMARY-  approval_status ............................................:      3
+! SUMMARY-  axis2_placement_3d .........................................:    839
+! SUMMARY-  b_spline_curve_with_knots ..................................:     86
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      9
+! SUMMARY-  b_spline_surface_with_knots ................................:     42
+! SUMMARY-  calendar_date ..............................................:      3
+! SUMMARY-  cartesian_point ............................................:   5895
+! SUMMARY-  circle .....................................................:    386
+! SUMMARY-  closed_shell ...............................................:     13
+! SUMMARY-  conical_surface ............................................:     14
+! SUMMARY-  coordinated_universal_time_offset ..........................:      3
+! SUMMARY-  cylindrical_surface ........................................:    174
+! SUMMARY-  date_and_time ..............................................:      3
+! SUMMARY-  direction ..................................................:   2502
+! SUMMARY-  edge_curve .................................................:   1305
+! SUMMARY-  edge_loop ..................................................:    513
+! SUMMARY-  face_bound .................................................:     19
+! SUMMARY-  face_outer_bound ...........................................:    494
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    824
+! SUMMARY-  local_time .................................................:      3
+! SUMMARY-  manifold_solid_brep ........................................:     13
+! SUMMARY-  organization ...............................................:      1
+! SUMMARY-  oriented_edge ..............................................:   2610
+! SUMMARY-  person .....................................................:      1
+! SUMMARY-  person_and_organization ....................................:      3
+! SUMMARY-  plane ......................................................:    250
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:      4
+! SUMMARY-  toroidal_surface ...........................................:     10
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    824
+! SUMMARY-  vertex_point ...............................................:    848
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          18214
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 9-MAR-2023 2:38:35 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 9-MAR-2023  2:38:36 PM
+! INFO-     Filing Part ..: D:\Studia\Semestr VII\PKM6\Model\Silnik\Sh 90L-B3_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:    13
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        13
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        13
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 9-MAR-2023  2:38:36 PM
+! INFO-      

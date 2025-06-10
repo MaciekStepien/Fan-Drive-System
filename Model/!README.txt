@@ -1,0 +1,1 @@
+Plik 0002assembly_FINAL.prt to końcowa wersja złożenia
