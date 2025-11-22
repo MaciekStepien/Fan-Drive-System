@@ -13,7 +13,7 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 ## Repository Structure
 
 - `Model/` — Siemens NX model files containing all parametric design data
-- `Drawings/` — Technical drawings
+- `Drawings/` — Technical drawings in PDF format
 - `Report_EN/` — Engineering report in PDF format with calculations in English
 - `Rerport_PL/` — Engineering report in PDF format with calculations in Polish
 - `README.md` — This project overview document
@@ -33,6 +33,9 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 - Parameter-driven CAD model for easy customization.
 - In-depth mechanical analysis to ensure design reliability and performance.
 - Detailed drawings suitable for prototyping or production.
+
+> **Note:** The report was originally written in Polish. The English version has been auto-translated using DeepL for convenience.  
+> As a result, the translation may contain inaccuracies. Please refer to the original Polish version for the most reliable information.
 
 ---
 
