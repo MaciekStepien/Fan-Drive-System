@@ -25,6 +25,9 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 - Open the 3D model files in Siemens NX or compatible CAD software to explore, modify, or simulate the Fan Drive System.
 - Refer to the engineering report for comprehensive details about design parameters, calculation methodologies, and technical specifications.
 - Use the included technical drawings for manufacturing or detailed review purposes.
+  
+> **Note:** The report was originally written in Polish. The English version has been auto-translated using DeepL for convenience.  
+> As a result, the translation may contain inaccuracies. Please refer to the original Polish version for the most reliable information.
 
 ---
 
@@ -33,9 +36,6 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 - Parameter-driven CAD model for easy customization.
 - In-depth mechanical analysis to ensure design reliability and performance.
 - Detailed drawings suitable for prototyping or production.
-
-> **Note:** The report was originally written in Polish. The English version has been auto-translated using DeepL for convenience.  
-> As a result, the translation may contain inaccuracies. Please refer to the original Polish version for the most reliable information.
 
 ---
 
