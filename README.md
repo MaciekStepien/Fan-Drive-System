@@ -12,9 +12,11 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 
 ## Repository Structure
 
-- `3D_model/` — Siemens NX model files containing all parametric design data.
-- `report/` — Engineering report in PDF format with calculations and technical drawings.
-- `README.md` — This project overview document.
+- `Model/` — Siemens NX model files containing all parametric design data
+- `Drawings/` — Technical drawings
+- `Report_EN/` — Engineering report in PDF format with calculations in English
+- `Rerport_PL/` — Engineering report in PDF format with calculations in Polish
+- `README.md` — This project overview document
 
 ---
 
