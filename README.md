@@ -14,8 +14,8 @@ This work demonstrates practical expertise in computer-aided design, mechanical 
 
 - `Model/` — Siemens NX model files containing all parametric design data
 - `Drawings/` — Technical drawings in PDF format
-- `Report_EN/` — Engineering report in PDF format with calculations in English
-- `Rerport_PL/` — Engineering report in PDF format with calculations in Polish
+- `Report_EN.pdf` — Engineering report in PDF format with calculations in English
+- `Rerport_PL.pdf` — Engineering report in PDF format with calculations in Polish
 - `README.md` — This project overview document
 
 ---
